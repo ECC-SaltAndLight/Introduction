@@ -11429,6 +11429,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
+  padding: 1rem;
   width: 15rem;
 }
 
@@ -11452,6 +11453,7 @@ html {
   max-width: 25rem;
   border-radius: 0.5rem;
   overflow: hidden;
+  
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
